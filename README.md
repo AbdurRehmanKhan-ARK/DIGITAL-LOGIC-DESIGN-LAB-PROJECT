@@ -127,9 +127,9 @@ The `ALU (Arithmetic Logic Unit)` is the computational backbone of any processor
 ## 💬 Final Words
 
 > **What began as wires became wisdom.**  
-> This 6-bit ALU wasn’t just built — it was forged through bugs, logic, and late nights.  
+> This 6-bit ALU wasn’t just built | it was forged through bugs, logic, and late nights.  
 > **Behold the beast:** so dense it defies screenshots, so stable it echoes real CPUs.  
-> Built one gate at a time — and every gate taught us growth.
+> Built one gate at a time | and every gate taught us growth.
 
 ---
 
