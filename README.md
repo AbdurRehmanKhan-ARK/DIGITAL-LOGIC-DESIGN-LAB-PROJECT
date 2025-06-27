@@ -115,7 +115,7 @@ The `ALU (Arithmetic Logic Unit)` is the computational backbone of any processor
 * Extend ALU to 8-bit or 16-bit architecture
 * Add signed number support
 * Integrate with memory and program counters for full CPU emulation
-* 
+
 ---
 ## 📫 Contact
 
