@@ -117,11 +117,10 @@ The `ALU (Arithmetic Logic Unit)` is the computational backbone of any processor
 * Integrate with memory and program counters for full CPU emulation
 * 
 ---
-
 ## 📫 Contact
 
-* Email: abdurrehmankhan0909@gmail.com  
-* LinkedIn: [linkedin.com/in/abdur-rehman-khan](https://linkedin.com/in/abdur-rehman-khan)
+- 📧 [abdurrehmankhan0909@gmail.com](mailto:abdurrehmankhan0909@gmail.com)  
+- 🔗 [Abdur Rehman Khan (LinkedIn)](https://linkedin.com/in/abdur-rehman-khan)
 
 ---
 
