@@ -115,19 +115,7 @@ The `ALU (Arithmetic Logic Unit)` is the computational backbone of any processor
 * Extend ALU to 8-bit or 16-bit architecture
 * Add signed number support
 * Integrate with memory and program counters for full CPU emulation
-
----
-
-## 🙋‍♂️ Contributor
-
-**Abdur Rehman Khan**  
-*Student at FAST NUCES, Karachi*  
-Role in Project:
-* Built error-detection and flag logic  
-* Designed instruction control stability  
-* Ensured circuit correctness and isolation  
-* Cleaned and documented modular design
-
+* 
 ---
 
 ## 📫 Contact
@@ -141,12 +129,9 @@ Role in Project:
 
 > “In a world built on 1s and 0s, we built something real.  
 > Not just gates or wires — but **understanding**, **discipline**, and **resilience**.  
->  
 > This ALU began as a few circuits, but ended as a symbol of **clarity under chaos**, of **structure born from confusion**, and of **teamwork powered by patience**.  
->  
-> Every silent bug, every dangling wire, every flipped bit —  
-> was a teacher in disguise.  
->  
+> Behold the Beast: A 6-Bit ALU So Powerful, It Defies Screenshots !
+  |_ This circuit is so dense, it has its own gravitational pull.
 > This isn't just a digital system.  
 > It's a **proof of growth**, a **lesson in logic**, and a reminder that **great things are always built from the ground up** — one gate at a time.”
 > 🧠 *All modules were built from primitive gates inside Logisim. This was a joint effort where each contribution stacked logically to create a fully functional 6-bit ALU.*  
