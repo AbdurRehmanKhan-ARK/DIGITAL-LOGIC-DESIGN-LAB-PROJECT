@@ -126,15 +126,11 @@ The `ALU (Arithmetic Logic Unit)` is the computational backbone of any processor
 
 ## 💬 Final Words
 
-> “In a world built on 1s and 0s, we built something real.  
-> Not just gates or wires — but **understanding**, **discipline**, and **resilience**.  
-> This ALU began as a few circuits, but ended as a symbol of **clarity under chaos**, of **structure born from confusion**, and of **teamwork powered by patience**.  
-> Behold the Beast: A 6-Bit ALU So Powerful, It Defies Screenshots !
-  |_ This circuit is so dense, it has its own gravitational pull.
-> This isn't just a digital system.  
-> It's a **proof of growth**, a **lesson in logic**, and a reminder that **great things are always built from the ground up** — one gate at a time.”
-> 🧠 *All modules were built from primitive gates inside Logisim. This was a joint effort where each contribution stacked logically to create a fully functional 6-bit ALU.*  
-> 💪 *From bit-level to instruction-level, we made sure everything worked like a CPU’s tiny heart.*
+> **What began as wires became wisdom.**  
+> This 6-bit ALU wasn’t just built — it was forged through bugs, logic, and late nights.  
+> **Behold the beast:** so dense it defies screenshots, so stable it echoes real CPUs.  
+> Built one gate at a time — and every gate taught us growth.
+
 ---
 
 ## 📜 License
